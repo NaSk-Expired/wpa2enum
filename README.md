@@ -40,6 +40,9 @@ disadvantages :1. Very Mininmal input validation
 other limitation : 1. This scrit will not crack the hash stored in handshake or pmkid as its not its main purpose
                    2. There is no any documentation it does that how it does things ( i dont know it would be good to mention this but i still mentioned it )
 
-                
-                   
-                   
+Installation : 
+git clone https://github.com/NaSk-Expired/wpa2enum.git
+cd wpa2enum
+chmod +x w2e.sh
+
+  
