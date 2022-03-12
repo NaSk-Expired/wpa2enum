@@ -44,9 +44,9 @@ disadvantages :
 5. Cannot kick multiple clients in handshake capturing process . (ONE at a Time)
 6. i dont know more -_-.
 
-other limitation : 
+other limitations : 
 
-1. This scrit will not crack the hash stored in handshake or pmkid as its not its main purpose
+1. This script will not crack the hash stored in handshake or pmkid as its not its main purpose
 2. There is no any documentation it does that how it does things ( i dont know it would be good to mention this but i still mentioned it )
 
 Installation : 
