@@ -51,11 +51,11 @@ other limitation :
 
 Installation : 
 
-git clone https://github.com/NaSk-Expired/wpa2enum.git &&
+sudo su git clone https://github.com/NaSk-Expired/wpa2enum.git &&
 cd wpa2enum &&
-chmod +x w2e.sh
+sudo su chmod +x w2e.sh
 
-Execute :
+Execute (run as superuser !):
 
 ./w2e.sh
 
